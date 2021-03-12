@@ -276,7 +276,7 @@ What metadata should be collected? What standards will be applied? What are the 
 
 **Suggested metadata schemas:**
 
-[TEI (Text Encoding Initiative)]() 
+[TEI (Text Encoding Initiative)](https://tei-c.org) 
 
 Guideline for encoding machine-readable (in the fields of humanities and social sciences). Used to describe the structural hierarchies, divisions, and characteristics of a given file (audio/video). 
 
